@@ -5,12 +5,19 @@ This project leverages a simplified version of the IMDB database to uncover insi
 ## Project Overview
 This project leverages a simplified version of the IMDB database to uncover insights about movies, their genres, key personnel and audience reception through ratings. The dataset consists of multiple interrelated tables, including: 
 
+
   -Movie: Basic details—title, release year, duration, country, income, languages, and production companies. 
+  
   -Genre: Information on movie genres. 
+  
   -Director Mapping: Connections between movies and their directors. 
+  
   -Role Mapping: Links between actors/actresses and movies,directors. 
+  
   -Names: Personal information about film professionals, such as birthdates, heights, and known movies. 
+  
   -Ratings: Movie ratings including average rating, total votes,median rating. 
+  
   
 This structured dataset provides a foundation for performing exploratory data analysis, testing advanced SQL query techniques, and ultimately presenting meaningful insights 
 
