@@ -50,5 +50,14 @@ movies received?
   24. Determine the total number of votes for each movie released in 2018. 
   25. What is the most common language in which movies were produced?
 
-## Presentation
+## Conclusion
 
+After analyzing the IMDB dataset it can derive following insights and recommendations. 
+  -Total 1078 movies were produced in the year of 2019 of Drama genre. Therefore, should focus to make Drama genre for their next project to get better outcome. 
+  -1059 movies are produced by India and USA; both are most suitable country for making movies. 
+  -3289 movies are only one genre out of 8643 movies.
+  -English is the most common language in movie industry.
+
+
+## Presentation
+- <a href="[https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Rainforcement%20Project.xlsx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fprabinp242%2FIMDb-SQL%2Frefs%2Fheads%2Fmain%2FIMDB%2520Project.pptx&wdOrigin=BROWSELINK)"> IMDb Presentation PPT </a>
